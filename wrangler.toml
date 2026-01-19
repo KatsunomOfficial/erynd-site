@@ -1,9 +1,0 @@
-name = "erynd"
-project = "erynd"
-type = "javascript"
-
-[build]
-  command = ""
-  upload = { format = "modules" }
-
-pages_build_output_dir = "."

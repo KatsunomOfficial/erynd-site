@@ -1,6 +1,9 @@
 name = "erynd"
+project = "erynd-site"
 type = "javascript"
-account_id = "d8c797475ec1dacb68ac2a5c5732566d"
-workers_dev = false
+
+[build]
+  command = ""
+  upload = { format = "modules" }
 
 pages_build_output_dir = "."
